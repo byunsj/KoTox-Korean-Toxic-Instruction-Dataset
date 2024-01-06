@@ -1,6 +1,8 @@
 # KoTox
 Repository for the paper 'Automatic Construction of a Korean Toxic Instruction Dataset for Ethical Tuning of Large Language Models'
 
+The paper has been accepted for the 'Instruction Tuning and Instruction Following' workshop at NeurIPS 2023.
+
 Paper : https://arxiv.org/abs/2311.18215
 
 # KoTox Dataset
