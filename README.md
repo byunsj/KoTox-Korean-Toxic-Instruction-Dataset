@@ -12,6 +12,8 @@ The dataset is generated based on predefined lexicons and linguistic templates.
 
 It is designed to address potentially harmful or misleading instructions by including outputs that refrain from providing specific opinions or information in response.
 
+The dataset has been proven effective in mitigating toxicity in Korean Large Language Models (LLMs).
+
 # Citation
 ```
 @misc{byun2023automatic,
